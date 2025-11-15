@@ -1,6 +1,6 @@
 # Mirror repo
 
-Hi @xbzz-d 👋
+Hello from [@xbzz-d](https://github.com/xbzz-d) 👋
 
 
 # The Missing Semester of Your CS Education
